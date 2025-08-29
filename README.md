@@ -1,9 +1,8 @@
 
+# Java Collection Framework Programs 🚀
 
-# Java DSA Practice 🚀
-
-This repository contains multiple **Java implementations of Data Structures and Algorithms (DSA)** concepts.
-The programs are organized by data structure type (ArrayList, LinkedList, Map, Queue, Set, Stack) and include both fundamental operations and advanced problem-solving exercises.
+This repository contains multiple Java programs implemented using the Collection Framework.
+The programs demonstrate how to use ArrayList, LinkedList, Map, Queue, Set, and Stack to solve real-world and problem-solving scenarios.
 
 ---
 
